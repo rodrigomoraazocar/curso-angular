@@ -1,0 +1,11 @@
+==================================
+Instalando Angular
+==================================
+
+_Ter o Node completo
+node -v
+
+1- npm install -g @angular/cli   (instalar de forma global)
+2- ng new curso-angular (criando o projeto)
+3 - cd curso angular
+
